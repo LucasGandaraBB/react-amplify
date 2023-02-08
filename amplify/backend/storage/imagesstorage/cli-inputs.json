@@ -1,0 +1,14 @@
+{
+  "resourceName": "imagesstorage",
+  "policyUUID": "9c7de230",
+  "bucketName": "reactamplify14ff82e15c8546749786e0deeefc7026",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
